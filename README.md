@@ -1,42 +1,7 @@
-# Nuxt 3 Minimal Starter
+This project consists of a single page that contains an information form about malnutrition in cancer patients, which is completed by doctors from Hospital La Paz or the Jimenez Diaz Foundation.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+The entire project was developed with Nuxt 3, PHP, and MySql.
 
-## Setup
+#
 
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+![Full Page](/img/fullpage.webp 'Full Page')
