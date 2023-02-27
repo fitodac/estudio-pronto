@@ -1,0 +1,20 @@
+{
+	"name": "estudio-pronto",
+	"private": true,
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare"
+	},
+	"devDependencies": {
+		"@nuxtjs/tailwindcss": "^6.2.0",
+		"nuxt": "3.0.0"
+	},
+	"dependencies": {
+		"@pinia/nuxt": "^0.4.6",
+		"element-plus": "^2.2.27",
+		"pinia": "^2.0.28"
+	}
+}

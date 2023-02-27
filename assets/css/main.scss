@@ -1,0 +1,28 @@
+:root{
+	--color-primary: #3366CC;
+}
+
+body{
+	@apply bg-white text-slate-600;
+}
+
+.el-checkbox,
+.el-radio{
+	height: auto !important;
+	align-items: start !important;
+}
+
+.el-checkbox__input,
+.el-radio__input{
+	top: 2px;
+}
+
+.el-checkbox__label,
+.el-radio__label{
+	line-height: 1.3 !important;
+	white-space: normal;
+}
+
+.el-checkbox + .el-checkbox{
+	margin-top: 14px;
+}
